@@ -9,7 +9,13 @@
 ### 中文教材
 周志华 机器学习 <br>
 李航 统计学习 第二版 <br>
-### 英文 （5本，链接可以下载）
+### 英文 
+A Concise Introduction to Machine Learning <br>
+The Matrix Cookbook <br>
+Mathematics for Machine Learning <br>
+Pattern classification <br>
+The Elements of Statistical Learning <br>
+Data Mining <br>
 
 ## 3. 大纲-表格
 
