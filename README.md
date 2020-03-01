@@ -1,6 +1,6 @@
 # 面向生命科学的积极学习理论与方法课程
 授课教师： 刘琦教授
-## 1. MIT页面 模仿 中文 <br>
+## 1. 课程简介 <br>
 课时1  内容  course meterial        阅读材料     作业<br>
 绪论               课程1.pdf(超链接) <br>
 
@@ -14,10 +14,20 @@
 ## 3. 大纲-表格
 
 ## 4. 机器学习竞赛网站
-两个
+Dream Challenge: http://dreamchallenges.org/ <br>
+kaggle
 
 ## 5. 好的网课链接
-列出来
+
+Andrew ng stanford ML course <br>
+Grokking Deep Learning <br>
+Machine Learning Yearning <br>
+MIT <br>
+大学MOOC <br>
+交互式线性代数 <br>
+李宏毅机器学习 <br>
+邱锡鹏深度学习 <br>
+图机器学习 <br>
 
 ## 6. 联系方式
 刘琦教授 email：qiliu@tongji.edu.cn
