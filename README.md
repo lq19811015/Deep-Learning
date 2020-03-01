@@ -15,7 +15,7 @@
 
 ## 4. 机器学习竞赛网站
 Dream Challenge: http://dreamchallenges.org/ <br>
-kaggle
+kaggle：https://www.kaggle.com/competitions <br>
 
 ## 5. 好的网课链接
 
