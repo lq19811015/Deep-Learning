@@ -19,6 +19,11 @@ Data Mining <br>
 
 ## 3. 大纲-表格
 | 课时 | 内容 | 课件 |　阅读材料 | 作业 |
+name | 价格 |  数量  
+-|-|-
+香蕉 | $1 | 5 |
+苹果 | $1 | 6 |
+草莓 | $1 | 7 |
 
 ## 4. 机器学习竞赛网站
 Dream Challenge: http://dreamchallenges.org/ <br>
