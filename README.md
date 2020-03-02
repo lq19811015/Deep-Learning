@@ -17,9 +17,24 @@ Pattern classification <br>
 The Elements of Statistical Learning <br>
 Data Mining <br>
 
-## 3. 大纲-表格
+## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
 ---|---|---|---|---
+课时1|
+课时2|
+课时3|
+课时4|
+课时5|
+课时6|
+课时7|
+课时8|
+课时9|
+课时10|
+课时11|
+课时12|
+课时13|
+课时14|
+课时15|
 
 ## 4. 机器学习竞赛网站
 Dream Challenge: http://dreamchallenges.org/ <br>
